@@ -1,7 +1,6 @@
-/// @description move to next room
 
-if (active == 0)
-{
-	Loading_scripts(destination, c_black, 0.05, xx, yy);
-	active =1 ;
-}
+	show_debug_message("Collision with door detected.");
+    room_goto(rm_Main_Island); 
+	
+
+	
