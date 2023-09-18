@@ -44,9 +44,9 @@
     {"id":{"name":"obj_speed_boost","path":"objects/obj_speed_boost/obj_speed_boost.yy",},},
     {"id":{"name":"spr_jump_boost","path":"sprites/spr_jump_boost/spr_jump_boost.yy",},},
     {"id":{"name":"rm_Main_Island","path":"rooms/rm_Main_Island/rm_Main_Island.yy",},},
+    {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"Obj_trap","path":"objects/Obj_trap/Obj_trap.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_Platform_mask","path":"sprites/spr_Platform_mask/spr_Platform_mask.yy",},},
     {"id":{"name":"obj_jump_boost","path":"objects/obj_jump_boost/obj_jump_boost.yy",},},
@@ -61,7 +61,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"roomId":{"name":"rm_Main_Island","path":"rooms/rm_Main_Island/rm_Main_Island.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
