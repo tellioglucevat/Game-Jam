@@ -54,6 +54,7 @@
     {"id":{"name":"spr_speed_boost","path":"sprites/spr_speed_boost/spr_speed_boost.yy",},},
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"Obj_platform","path":"objects/Obj_platform/Obj_platform.yy",},},
+    {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
     {"id":{"name":"obj_transtion","path":"objects/obj_transtion/obj_transtion.yy",},},
     {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
   ],
