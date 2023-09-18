@@ -2,9 +2,9 @@
 
 // Movements
 
-left_movement = keyboard_check(ord("A"));
-right_movement = keyboard_check(ord("D"));
-jump = keyboard_check_pressed(vk_space);
+left_movement = keyboard_check(ord("A")) || keyboard_check(vk_left) ;
+right_movement = keyboard_check(ord("D"))|| keyboard_check(vk_right) ;
+jump = keyboard_check(ord("W"))||keyboard_check_pressed(vk_space)||keyboard_check(vk_up);
 
 var movement = right_movement - left_movement;
 
