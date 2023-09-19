@@ -48,6 +48,7 @@
     {"id":{"name":"Obj_trap","path":"objects/Obj_trap/Obj_trap.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"spr_Platform_mask","path":"sprites/spr_Platform_mask/spr_Platform_mask.yy",},},
     {"id":{"name":"obj_jump_boost","path":"objects/obj_jump_boost/obj_jump_boost.yy",},},
     {"id":{"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},},
@@ -55,7 +56,7 @@
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
     {"id":{"name":"Obj_platform","path":"objects/Obj_platform/Obj_platform.yy",},},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
-    {"id":{"name":"obj_transtion","path":"objects/obj_transtion/obj_transtion.yy",},},
+    {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},},
     {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
   ],
   "RoomOrderNodes": [

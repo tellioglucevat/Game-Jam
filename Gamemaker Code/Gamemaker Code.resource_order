@@ -29,11 +29,12 @@
     {"name":"Obj_trap","order":2,"path":"objects/Obj_trap/Obj_trap.yy",},
     {"name":"spr_water","order":1,"path":"sprites/spr_water/spr_water.yy",},
     {"name":"spr_background","order":4,"path":"sprites/spr_background/spr_background.yy",},
+    {"name":"obj_controller","order":8,"path":"objects/obj_controller/obj_controller.yy",},
     {"name":"spr_Platform_mask","order":1,"path":"sprites/spr_Platform_mask/spr_Platform_mask.yy",},
     {"name":"obj_jump_boost","order":5,"path":"objects/obj_jump_boost/obj_jump_boost.yy",},
     {"name":"spr_speed_boost","order":5,"path":"sprites/spr_speed_boost/spr_speed_boost.yy",},
     {"name":"obj_door","order":6,"path":"objects/obj_door/obj_door.yy",},
     {"name":"Obj_platform","order":1,"path":"objects/Obj_platform/Obj_platform.yy",},
-    {"name":"obj_transtion","order":7,"path":"objects/obj_transtion/obj_transtion.yy",},
+    {"name":"obj_transition","order":7,"path":"objects/obj_transition/obj_transition.yy",},
   ],
 }
