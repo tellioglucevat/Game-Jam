@@ -1,16 +1,25 @@
 /// @description player features 
 
 // Movements
+if (hascontrol)
+{
+	left_movement = keyboard_check(ord("A")) || keyboard_check(vk_left) ;
+	right_movement = keyboard_check(ord("D"))|| keyboard_check(vk_right) ;
+	jump = keyboard_check(ord("W"))||keyboard_check_pressed(vk_space)||keyboard_check(vk_up);
 
-left_movement = keyboard_check(ord("A")) || keyboard_check(vk_left) ;
-right_movement = keyboard_check(ord("D"))|| keyboard_check(vk_right) ;
-jump = keyboard_check(ord("W"))||keyboard_check_pressed(vk_space)||keyboard_check(vk_up);
+	var movement = right_movement - left_movement;
 
-var movement = right_movement - left_movement;
+	horizontal_speed = movement * walk_speed;
 
-horizontal_speed = movement * walk_speed;
+	vertical_speed = vertical_speed + gravity_speed;
+}
+else
+{
+	left_movement =0;
+	right_movement=0;
+	jump=0;
+}
 
-vertical_speed = vertical_speed + gravity_speed;
 
 // horizonral collison
 
