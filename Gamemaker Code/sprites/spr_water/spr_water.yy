@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "environment",
-    "path": "folders/Sprites/environment.yy",
+    "name": "Gamemaker Code",
+    "path": "Gamemaker Code.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

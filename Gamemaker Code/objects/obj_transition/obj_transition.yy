@@ -29,10 +29,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_speed_boost",
-    "path": "sprites/spr_speed_boost/spr_speed_boost.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

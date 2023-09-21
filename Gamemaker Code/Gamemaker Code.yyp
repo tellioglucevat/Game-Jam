@@ -12,7 +12,7 @@
   "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"environment","folderPath":"folders/Sprites/environment.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"environment","folderPath":"folders/environment.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
@@ -26,13 +26,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Convenience","folderPath":"folders/Scripts/Convenience.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
