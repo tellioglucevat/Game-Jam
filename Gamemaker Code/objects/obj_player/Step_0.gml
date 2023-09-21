@@ -51,6 +51,7 @@ y = y + vertical_speed;
 if(place_meeting(x, y+1, Obj_platform) and (jump))
 {
 	vertical_speed =- jump_speed;
+	audio_play_sound(snd_jump,0,0);	
 }
 
 
@@ -80,6 +81,7 @@ else
 }
 
 if( horizontal_speed != 0) image_xscale = sign(horizontal_speed);
+
 
 
 
