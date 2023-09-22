@@ -41,6 +41,7 @@
     {"id":{"name":"spr_sp","path":"sprites/spr_sp/spr_sp.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},},
+    {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"spr_trigger","path":"sprites/spr_trigger/spr_trigger.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"snd_dimond","path":"sounds/snd_dimond/snd_dimond.yy",},},
@@ -62,8 +63,10 @@
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},},
     {"id":{"name":"Obj_platform","path":"objects/Obj_platform/Obj_platform.yy",},},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},},
+    {"id":{"name":"spr_Vplatform","path":"sprites/spr_Vplatform/spr_Vplatform.yy",},},
     {"id":{"name":"spr_main_background","path":"sprites/spr_main_background/spr_main_background.yy",},},
     {"id":{"name":"obj_transition","path":"objects/obj_transition/obj_transition.yy",},},
+    {"id":{"name":"spr_hPlatform","path":"sprites/spr_hPlatform/spr_hPlatform.yy",},},
     {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
   ],
   "RoomOrderNodes": [

@@ -22,6 +22,7 @@
     {"name":"spr_sp","order":7,"path":"sprites/spr_sp/spr_sp.yy",},
     {"name":"spr_player_walk","order":3,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_player_jump","order":2,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
+    {"name":"Sprite16","order":16,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"spr_trigger","order":10,"path":"sprites/spr_trigger/spr_trigger.yy",},
     {"name":"snd_dimond","order":1,"path":"sounds/snd_dimond/snd_dimond.yy",},
     {"name":"obj_speed_boost","order":4,"path":"objects/obj_speed_boost/obj_speed_boost.yy",},
@@ -41,7 +42,9 @@
     {"name":"spr_water","order":12,"path":"sprites/spr_water/spr_water.yy",},
     {"name":"spr_textbox","order":15,"path":"sprites/spr_textbox/spr_textbox.yy",},
     {"name":"Obj_platform","order":1,"path":"objects/Obj_platform/Obj_platform.yy",},
+    {"name":"spr_Vplatform","order":17,"path":"sprites/spr_Vplatform/spr_Vplatform.yy",},
     {"name":"spr_main_background","order":13,"path":"sprites/spr_main_background/spr_main_background.yy",},
     {"name":"obj_transition","order":7,"path":"objects/obj_transition/obj_transition.yy",},
+    {"name":"spr_hPlatform","order":18,"path":"sprites/spr_hPlatform/spr_hPlatform.yy",},
   ],
 }
