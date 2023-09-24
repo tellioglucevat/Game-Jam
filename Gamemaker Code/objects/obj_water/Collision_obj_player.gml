@@ -1,3 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-game_restart();
+/// @description Hurt the player
+other.healthpoints -= 1;
+other.x = other.xstart;
+other.y = other.ystart;
