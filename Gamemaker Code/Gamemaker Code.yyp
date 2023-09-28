@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.0.98",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},},
@@ -61,7 +61,7 @@
     {"id":{"name":"spr_Platform_mask","path":"sprites/spr_Platform_mask/spr_Platform_mask.yy",},},
     {"id":{"name":"obj_jump_boost","path":"objects/obj_jump_boost/obj_jump_boost.yy",},},
     {"id":{"name":"spr_trap","path":"sprites/spr_trap/spr_trap.yy",},},
-    {"id":{"name":"obj_dimond","path":"objects/obj_dimond/obj_dimond.yy",},},
+    {"id":{"name":"obj_diamond","path":"objects/obj_diamond/obj_diamond.yy",},},
     {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},},
     {"id":{"name":"spr_speed_boost","path":"sprites/spr_speed_boost/spr_speed_boost.yy",},},
     {"id":{"name":"obj_Levelend","path":"objects/obj_Levelend/obj_Levelend.yy",},},

@@ -2,9 +2,9 @@
 
 with(obj_player)
 {
-	if (hascontrol)
+	if (hasControl)
 	{
-		hascontrol = false;
+		hasControl = false;
 		SlideTransition(TRANS_MODE.GOTO,other.target);
 	}
 }

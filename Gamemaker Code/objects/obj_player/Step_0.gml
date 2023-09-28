@@ -1,16 +1,18 @@
 /// @description player features 
 
+left_movement = keyboard_check(ord("A")) || keyboard_check(vk_left) ;
+right_movement = keyboard_check(ord("D"))|| keyboard_check(vk_right) ;
+jump = keyboard_check(ord("W"))||keyboard_check_pressed(vk_space)||keyboard_check(vk_up);
+
 // Movements
-if (hascontrol)
+if (hasControl)
 {
-	left_movement = keyboard_check(ord("A")) || keyboard_check(vk_left) ;
-	right_movement = keyboard_check(ord("D"))|| keyboard_check(vk_right) ;
-	jump = keyboard_check(ord("W"))||keyboard_check_pressed(vk_space)||keyboard_check(vk_up);
+	//left_movement = keyboard_check(ord("A")) || keyboard_check(vk_left) ;
+	//right_movement = keyboard_check(ord("D"))|| keyboard_check(vk_right) ;
+	//jump = keyboard_check(ord("W"))||keyboard_check_pressed(vk_space)||keyboard_check(vk_up);
 
 	var movement = right_movement - left_movement;
-
 	horizontal_speed = movement * walk_speed;
-
 	vertical_speed = vertical_speed + gravity_speed;
 }
 else
@@ -77,6 +79,25 @@ else
 	else
 	{
 		sprite_index = spr_player_walk;
+	}
+}
+
+if isShopping
+{
+	if right_movement
+	{
+		if global.shopIndex < array_length(global.shopItems) - 1
+			global.shopIndex++;
+		else
+			global.shopIndex = 0;
+	}
+	
+	if left_movement
+	{
+		if global.shopIndex > 0
+			global.shopIndex--;
+		else
+			global.shopIndex = array_length(global.shopItems) - 1;
 	}
 }
 
