@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_dimond",
-    "path": "sprites/spr_dimond/spr_dimond.yy",
+    "name": "spr_diamond",
+    "path": "sprites/spr_diamond/spr_diamond.yy",
   },
   "spriteMaskId": null,
   "visible": true,
