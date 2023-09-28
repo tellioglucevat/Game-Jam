@@ -4,7 +4,7 @@
   "name": "spr_hPlatform",
   "bbox_bottom": 671,
   "bbox_left": 144,
-  "bbox_right": 575,
+  "bbox_right": 863,
   "bbox_top": 96,
   "bboxMode": 0,
   "collisionKind": 1,
